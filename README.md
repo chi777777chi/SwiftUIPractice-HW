@@ -1,0 +1,2 @@
+# SwiftUIPractice-HW1
+使用swiftUI製作一個有關傳奇饒舌歌手Eminem介紹的APP
